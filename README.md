@@ -18,7 +18,9 @@ On the application will be running on your local port !!
     
 ## Screenshots
 
-![App Screenshot](Screenshot 2024-06-16 110034.png)
+<div>
+    <img src="/uploads/Screenshot 2024-06-16 110034.png">
+</div>
 
 
 ## License
