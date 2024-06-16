@@ -19,7 +19,7 @@ On the application will be running on your local port !!
 ## Screenshots
 
 <div>
-    <img src="/uploads/Screenshot 2024-06-16 110034.png">
+    <img src="Screenshot 2024-06-16 110034.png">
 </div>
 
 
